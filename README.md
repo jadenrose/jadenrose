@@ -6,8 +6,8 @@
 * Back-end web development
 
 ## Current Project
-### https://github.com/jadenrose/face-the-earth
-This is the Vue.js app (SPA) that I'm buidling for my brother's band, Face the Earth
+### https://github.com/jadenrose/face-the-earth-v2
+This is the Full-stack Vue app (SPA) that I'm buidling for my brother's band, Face the Earth.
 
 
 ## Collaboration
