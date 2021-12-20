@@ -5,9 +5,12 @@
 * Front-end web development
 * Back-end web development
 
-## Current Project
-### https://github.com/jadenrose/face-the-earth-v2
+## Current Projects
+### https://face-the-earth.herokuapp.com (https://github.com/jadenrose/face-the-earth-v2)
 This is the Full-stack Vue app (SPA) that I'm buidling for my brother's band, Face the Earth.
+
+### https://github.com/jadenrose/allrose_exteriors
+This is the MERN app that I'm buidling for my family's construction company
 
 
 ## Collaboration
