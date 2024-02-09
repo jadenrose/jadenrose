@@ -9,7 +9,7 @@
 
 ## Current Projects
 
-### https://github.com/jadenrose/allrose_exteriors
+### https://github.com/jadenrose/allrose-exteriors
 ### https://github.com/jadenrose/jadenrose-media
 ### https://github.com/jadenrose/gsap-canned-animations
 
